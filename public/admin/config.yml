@@ -35,9 +35,8 @@ collections:
               label: Keyword
               name: keyword
               widget: "object"
-              collapsed: true
               fields:
-                - {label: "Keyword", name: "keyword", widget: "string"}
+                - {label: "Keyword", widget: "string"}
           - label: "Twitter account"
             name: "twitter_account"
             widget: "string"
