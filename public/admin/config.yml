@@ -34,7 +34,9 @@ collections:
             field:
               label: Keyword
               name: keyword
-              widget: "string"
+              widget: "object"
+              fields:
+                - {label: "Keyword", name: "keyword", widget: "string"}
           - label: "Twitter account"
             name: "twitter_account"
             widget: "string"
