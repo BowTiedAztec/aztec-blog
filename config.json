@@ -3,10 +3,9 @@
   "site_title": "BowTiedAztec",
   "site_description": "Crypto, programming, Mexico.",
   "site_keywords": [
-    "crypto",
-    "mexico",
-    "programming",
-    "test"
+    {"keyword": "crypto"},
+    {"keyword": "mexico"},
+    {"keyword": "programming"}
   ],
   "posts_per_page": 5,
   "twitter_account": "@BowTiedAztec",
